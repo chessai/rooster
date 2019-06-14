@@ -9,3 +9,6 @@
 
 # python cache in vendored crates
 __pycache__
+
+# nix output
+result
